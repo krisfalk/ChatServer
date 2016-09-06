@@ -1,0 +1,23 @@
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\bin\Debug\GameSocket.exe
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.frm_Server.resources
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\bin\Debug\GameSocket.exe
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.exe
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\GameSocket.pdb
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\bin\Debug\GameSocket.exe
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\Kristofer\Desktop\DownloadedCode\GameSocket\obj\Debug\ClientSocket.SocketClient.resources
